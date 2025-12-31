@@ -41,7 +41,7 @@ It is designed to build a strong foundation in problem solving and to prepare fo
 ---
 
 ## 📂 Folder Structure
-
+```text
 DSA/
 │
 ├── Basics/
@@ -60,7 +60,7 @@ DSA/
 ├── Graph/
 ├── Sorting/
 └── DynamicProgramming/
-
+```text
 
 
 Each folder contains:
