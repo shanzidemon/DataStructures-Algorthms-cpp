@@ -40,6 +40,11 @@ It is designed to build a strong foundation in problem solving and to prepare fo
 
 ---
 
+
+মানে, পুরো অংশটা এমন হবে 👇  
+⚠️ নিচেরটা **exactly copy–paste করো**
+
+```markdown
 ## 📂 Folder Structure
 ```text
 DSA/
@@ -60,7 +65,7 @@ DSA/
 ├── Graph/
 ├── Sorting/
 └── DynamicProgramming/
-```text
+(```)
 
 
 Each folder contains:
