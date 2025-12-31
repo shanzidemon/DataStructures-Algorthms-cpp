@@ -39,12 +39,6 @@ It is designed to build a strong foundation in problem solving and to prepare fo
 - Graph Algorithms (BFS, DFS, Dijkstra, etc.)
 
 ---
-
-
-মানে, পুরো অংশটা এমন হবে 👇  
-⚠️ নিচেরটা **exactly copy–paste করো**
-
-```markdown
 ## 📂 Folder Structure
 ```text
 DSA/
@@ -65,7 +59,7 @@ DSA/
 ├── Graph/
 ├── Sorting/
 └── DynamicProgramming/
-(```)
+```
 
 
 Each folder contains:
