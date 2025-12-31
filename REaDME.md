@@ -45,10 +45,10 @@ It is designed to build a strong foundation in problem solving and to prepare fo
 DSA/
 │
 ├── Basics/
-│   ├── InputOutput.cpp
-│   ├── Loops.cpp
-│   ├── Functions.cpp
-│   └── Pointers.cpp
+│ ├── InputOutput.cpp
+│ ├── Loops.cpp
+│ ├── Functions.cpp
+│ └── Pointers.cpp
 │
 ├── Arrays/
 ├── Strings/
